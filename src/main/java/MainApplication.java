@@ -36,6 +36,7 @@ public class MainApplication {
             if (value.equals("s")) {
                 condition = false;
             }
+
         }
     }
 }

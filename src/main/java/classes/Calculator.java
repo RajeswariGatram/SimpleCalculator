@@ -22,7 +22,6 @@ public class Calculator {
             default:
                 System.out.println("Invalid Operation or Data");
         }
-
         return 0F;
     }
 
